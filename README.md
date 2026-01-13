@@ -1,47 +1,43 @@
-<h1 align="center">Hi 👋, I'm Linthan B L</h1>
+<h1 align="center">Linthan B L</h1>
 <h3 align="center">Java Developer | Spring Boot | REST APIs | Backend Engineer</h3>
 
 <p align="center">
-📍 Bangalore, India  
+📍 Bengaluru, Karnataka, India  
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Spring Boot**
-- **Spring Security & JWT**
-- Backend system design
+## 🌟 About Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ASPIRING%20JAVA%20DEVELOPER-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LOCATION-BENGALURU,%20INDIA-blue?style=for-the-badge"/>
+</p>
+
+Hi there! 👋 I'm **Linthan B L**, an aspiring **Java Backend Developer** passionate about building scalable, backend-driven applications.  
+Skilled in **Java, Spring Boot, SQL, and RESTful APIs**, I focus on clean architecture and efficient data handling.  
+I’m eager to contribute to real-world projects and grow as a backend engineer 🚀
 
 ---
 
-## 👨‍💻 About Me
-Hi, I'm **Linthan**, an aspiring **Java Backend Developer** passionate about building scalable and secure backend applications.  
-I enjoy working with **Java, Spring Boot, REST APIs, and SQL**, and I’m constantly improving my backend and problem-solving skills.
-
-- 🎯 Aspiring Java Backend Developer  
-- 💡 Interested in clean architecture & scalable systems  
-- 🚀 Actively building real-world projects  
-
----
-
-## 🛠️ Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 ### 🔹 Backend & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 </p>
 
-### 🔹 Frontend & UI (Basic)
+### 🔹 Frontend & UI
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
 ### 🔹 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle" />
 </p>
 
-### 🔹 Tools & DevOps
+### 🔹 DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws" />
 </p>
@@ -51,14 +47,14 @@ I enjoy working with **Java, Spring Boot, REST APIs, and SQL**, and I’m consta
 ## 🚀 Projects
 
 ### 📌 Student Management System
-- Spring Boot + MySQL
-- REST APIs for CRUD operations
-- Layered architecture (Controller, Service, Repository)
-
-### 📌 Employee CRUD REST API
 - Java & Spring Boot
+- REST APIs with CRUD operations
+- MySQL database integration
+
+### 📌 Employee Management REST API
+- Layered architecture
 - Exception handling
-- API testing with Postman
+- API testing using Postman
 
 ### 📌 JWT Authentication System
 - Spring Security
@@ -68,22 +64,24 @@ I enjoy working with **Java, Spring Boot, REST APIs, and SQL**, and I’m consta
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Linthan123&show_icons=true&theme=tokyonight" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Linthan123&show_icons=true&theme=tokyonight"/>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linthan123&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linthan123&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
-<p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/linthan-poojary-b007291">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:linthanblpoojari21@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
