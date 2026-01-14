@@ -1,5 +1,5 @@
 <h1 align="center">Linthan B L</h1>
-<h3 align="center">Java Developer | Spring Boot | REST APIs | Backend Engineer</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | SQL | Building scalable backend systems</h3>
 
 <p align="center">
 📍 Bengaluru, Karnataka, India  
@@ -14,9 +14,7 @@
   <img src="https://img.shields.io/badge/LOCATION-BENGALURU,%20INDIA-blue?style=for-the-badge"/>
 </p>
 
-Hi there! 👋 I'm **Linthan B L**, an aspiring **Java Backend Developer** passionate about building scalable, backend-driven applications.  
-Skilled in **Java, Spring Boot, SQL, and RESTful APIs**, I focus on clean architecture and efficient data handling.  
-I’m eager to contribute to real-world projects and grow as a backend engineer 🚀
+Aspiring Java Backend Developer with strong foundations in Java, Spring Boot, SQL, and RESTful APIs, seeking an entry-level role to design scalable backend systems and contribute to real world software solutions.
 
 ---
 
