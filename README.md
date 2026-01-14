@@ -14,7 +14,10 @@
   <img src="https://img.shields.io/badge/LOCATION-BENGALURU,%20INDIA-blue?style=for-the-badge"/>
 </p>
 
-Aspiring Java Backend Developer with strong foundations in Java, Spring Boot, SQL, and RESTful APIs, seeking an entry-level role to design scalable backend systems and contribute to real world software solutions.
+Aspiring Java Backend Developer with a strong foundation in Core Java, Spring Boot, SQL, and RESTful APIs, passionate about building scalable, secure, and high-performance backend applications.
+Experienced in designing clean, layered architectures and implementing backend business logic with a focus on maintainability and efficiency.
+Actively seeking an entry-level opportunity where I can contribute to real-world software projects, collaborate with experienced development teams, and continuously enhance my technical and problem-solving skills.
+Motivated to grow as a backend engineer by adopting industry best practices, learning new technologies, and delivering reliable software solutions that create real impact.
 
 ---
 
