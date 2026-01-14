@@ -47,20 +47,22 @@ Motivated to grow as a backend engineer by adopting industry best practices, lea
 
 ## 🚀 Projects
 
-### 📌 Student Management System
-- Java & Spring Boot
-- REST APIs with CRUD operations
-- MySQL database integration
+### 📌 Job Application Tracking System – RESTful Backend Platform
+**Tools & Technologies:** Java, Spring Boot, Spring Data JPA, MySQL, JWT, REST APIs, Docker, Postman  
 
-### 📌 Employee Management REST API
-- Layered architecture
-- Exception handling
-- API testing using Postman
+- Developed a backend-driven job application tracking system to manage job postings, candidate applications, and hiring workflows.
+- Implemented **JWT-based authentication** with **role-based access control** for Admin, Recruiter, and Candidate users.
+- Built RESTful APIs for job creation, job listing with pagination, job application submission, and application status management.
+- Designed a **normalized MySQL database schema** with foreign key and composite constraints to ensure data integrity and prevent duplicate job applications.
 
-### 📌 JWT Authentication System
-- Spring Security
-- Role-based authentication
-- Secure REST APIs
+---
+
+### 📌 Pneumonia Detection Using Deep Learning
+**Tools & Technologies:** Python, TensorFlow, Keras, CNN, NumPy  
+
+- Developed a deep learning-based system for early and accurate detection of pneumonia from chest X-ray images.
+- Implemented **Convolutional Neural Networks (CNNs)** using TensorFlow and Keras to classify images as Normal or Pneumonia.
+- Applied image preprocessing and **data augmentation techniques** to improve model generalization and reduce overfitting.
 
 ---
 
