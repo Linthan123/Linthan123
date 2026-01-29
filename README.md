@@ -66,17 +66,6 @@ Motivated to grow as a backend engineer by adopting industry best practices, lea
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Linthan123&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linthan123&theme=tokyonight"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
